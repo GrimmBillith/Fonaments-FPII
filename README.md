@@ -1,5 +1,5 @@
 # Fonaments-FPII
-### Exercicis
+### Exercicis && Enunciats
 Exercici L1a  - El Joc del Pont  
 Exercici L1b  - Detectar muntanyes  
 Exercici L2./ - El Joc dels Daus  
