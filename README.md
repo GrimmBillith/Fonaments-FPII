@@ -12,7 +12,8 @@ Exercici L7./ - Ordenar Persones
 
 ### Teoria
 
-Es pot trobar els PDFs corresponents per coneixer la teoria i poder consolidar els coneixementes de l'assignatura.
+Es pot trobar els PDFs corresponents per coneixer la teoria i poder consolidar els coneixementes de l'assignatura.  
+_Es un document Google Drive amb els actuals [20] PDFs de l'assignatura._
 
 ## IMPORTANT
 
