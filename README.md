@@ -16,6 +16,6 @@ Exercici L7./ - Ordenar Persones
 
 No agafis el meu codi! Simplement copypasteja el meu repositori.  
 
-1. Clona el repositori:
-   ```bash
-   git clone https://github.com/tu-usuario/Fonaments-FPII.git 
+#### Clona el repositori:
+```bash
+git clone https://github.com/tu-usuario/Fonaments-FPII.git 
