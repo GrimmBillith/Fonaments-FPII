@@ -12,6 +12,8 @@ Exercici L7./ - Ordenar Persones
 
 ### Teoria
 
+Es pot trobar els PDFs corresponents per coneixer la teoria i poder consolidar els coneixementes de l'assignatura.
+
 ## IMPORTANT
 
 No agafis el meu codi! Simplement copypasteja el meu repositori.  
