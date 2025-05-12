@@ -12,10 +12,10 @@ Exercici L7./ - Ordenar Persones
 
 ### Teoria
 
-## Cómo contribuir
+## IMPORTANT
 
-Si deseas contribuir al proyecto, sigue estos pasos:
+No agafis el meu codi! Simplement copypasteja el meu repositori.  
 
-1. Clona el repositorio:
+1. Clona el repositori:
    ```bash
    git clone https://github.com/tu-usuario/Fonaments-FPII.git 
