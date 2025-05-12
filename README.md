@@ -1,2 +1,3 @@
 # Fonaments-FPII
-## Exercici L7 - Ordenar Persones
+### Exercicis
+Exercici L7 - Ordenar Persones
