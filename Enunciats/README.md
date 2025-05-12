@@ -1,5 +1,6 @@
 # Fonaments de Programació II  
-## URV - Grau d'Enginyeria Informàtica  
-### Enunciats  
+## Enunciats  
+### URV - Grau d'Enginyeria Informàtica  
+
 
 Biblioteca d'enunciats d'exercicis de FPII...
