@@ -27,13 +27,13 @@ _Es un document Google Drive amb els actuals [20] PDFs de l'assignatura._
 
 ## IMPORTANT
 
-No agafis el meu codi! Simplement copypasteja el meu repositori.  
+No difundis el meu codi sense donar crèdits! Copypasteja el meu repositori. ❤️  
 
 #### git clone uwu:
 ```bash
 https://github.com/GrimmBillith/Fonaments-de-Programacio.git
 ```
-**A CONTINUACIÓ, TOTS ELS ENLLAÇOS AL TEMARI DE FPI I FPII:**
+**A CONTINUACIÓ, TOTS ELS ENLLAÇOS AL TEMARI DE FPI:**
 #### Labs de FP I:
 ```bash
 https://drive.google.com/drive/folders/1B_Pxx-5wturoBfujTuZcrbcrv0xQCMpg?usp=sharing
