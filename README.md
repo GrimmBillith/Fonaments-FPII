@@ -36,4 +36,8 @@ https://drive.google.com/drive/folders/1B_Pxx-5wturoBfujTuZcrbcrv0xQCMpg?usp=sha
 ```bash
 https://drive.google.com/drive/folders/1TnrZLUxMoNc7ltdVnTIABxGhGCCxTtM7?usp=sharing
 ```
+#### Pràctica de FPI:
+```bash
+https://drive.google.com/drive/folders/16UazsHX4Lgx8bV869_EfK4poNX90y_QF?usp=sharing
+```
 
