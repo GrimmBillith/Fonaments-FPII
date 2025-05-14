@@ -12,6 +12,7 @@ Exercici L7./ - Ordenar Persones
 ### Pràctica  
 
 _També conegut com a pràctiques o Gulag_  
+Treball Final FPII --> AlgorismesGenètics  
 
 ### Teoria
 
