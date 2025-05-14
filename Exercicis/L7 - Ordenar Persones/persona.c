@@ -8,9 +8,9 @@ void llegirFitxer(const char *nom_fitxer, Persona **persones, int *n) {
         exit(1);
     }
 
-    fscanf(f, "%d", n); // Llegim nombre de persones
+    fscanf(f, "%d", n);
     char buffer[256];
-    fgets(buffer, 256, f); // Saltar capçalera
+    fgets(buffer, 256, f);
 
     *persones = (Persona *)malloc(*n * sizeof(Persona));
     if (!*persones) {
