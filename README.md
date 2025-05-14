@@ -23,9 +23,9 @@ _Es un document Google Drive amb els actuals [20] PDFs de l'assignatura._
 
 No agafis el meu codi! Simplement copypasteja el meu repositori.  
 
-#### Clona el repositori:
+#### git clone uwu:
 ```bash
-git clone https://github.com/tu-usuario/Fonaments-FPII.git
+https://github.com/tu-usuario/Fonaments-FPII.git
 ```
 **A CONTINUACIÓ, TOTS ELS ENLLAÇOS AL TEMARI DE FPI I FPII:**
 #### Labs de FP I:
