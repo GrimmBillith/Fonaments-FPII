@@ -1,9 +1,7 @@
-# Fonaments-FPII
+# Fonaments de Programació
 
-Personalment, crec que FPII és més difícil que FPI, encara que l'alumnat pot pensar que (com ja tenen temari bàsic de programar en C) pot ser mé aprobable, però la veritat és que l'avaluació és més dura.  
 FPI: 10% 1r Parcial ; 20% Lab ; 70% Final  
 FPII: 30% 1r Parcial ; 30% Lab ; 40% Final  
-El temari és més difícil. 😭  
 
 ### Exercicis && Enunciats
 Exercici L1a  - El Joc del Pont  
