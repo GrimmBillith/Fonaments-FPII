@@ -8,7 +8,10 @@ Exercici L4./ - Memory
 Exercici L5./ - Tamagotchi 2.0  
 Exercici L6./ - Funcions recursives  
 Exercici L7./ - Ordenar Persones  
+
 ### Pràctica  
+
+_També conegut com a pràctiques o Gulag_  
 
 ### Teoria
 
