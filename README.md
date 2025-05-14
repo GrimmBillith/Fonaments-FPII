@@ -3,6 +3,8 @@
 FPI: 10% 1r Parcial ; 20% Lab ; 70% Final  
 FPII: 30% 1r Parcial ; 30% Lab ; 40% Final  
 
+El temari principal d'aquest repositori és per a FPII, però també es pot trobar el temari de FPI.  
+
 ### Exercicis && Enunciats
 Exercici L1a  - El Joc del Pont  
 Exercici L1b  - Detectar muntanyes  
