@@ -25,7 +25,7 @@ No agafis el meu codi! Simplement copypasteja el meu repositori.
 
 #### git clone uwu:
 ```bash
-https://github.com/tu-usuario/Fonaments-FPII.git
+https://github.com/GrimmBillith/Fonaments-de-Programacio.git
 ```
 **A CONTINUACIÓ, TOTS ELS ENLLAÇOS AL TEMARI DE FPI I FPII:**
 #### Labs de FP I:
