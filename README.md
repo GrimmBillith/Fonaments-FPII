@@ -27,6 +27,6 @@ No agafis el meu codi! Simplement copypasteja el meu repositori.
 ```bash
 git clone https://github.com/tu-usuario/Fonaments-FPII.git
 ````
-#### Labs de FP:
+#### Labs de FP I:
 ````bash
 https://drive.google.com/drive/folders/1B_Pxx-5wturoBfujTuZcrbcrv0xQCMpg?usp=sharing
